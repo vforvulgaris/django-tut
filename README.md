@@ -3,4 +3,4 @@
 http://quickly.pythonanywhere.com/
 
 user: quickly
-pass: <m3>
+pass: _m3_
